@@ -1,7 +1,7 @@
 # Yelp Dataset Analysis
 
 ## Introduction
-This contains code snippets and summary od Yelp dataset analysis.
+This contains code snippets and summary of Yelp dataset analysis.
 
 
 
